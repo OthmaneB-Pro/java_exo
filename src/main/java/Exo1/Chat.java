@@ -1,4 +1,4 @@
-package org.example;
+package Exo1;
 
 public class Chat extends AnimalBase {
     public Chat(String name, int age) {
